@@ -1,0 +1,17 @@
+{
+    "name": "stackbug/sql",
+    "autoload": {
+        "psr-4": {
+            "Stackbug\\Sql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "stackJx",
+            "email": "root@stackbug.dev"
+        }
+    ],
+    "require": {
+        "topthink/think-orm": "^3.0"
+    }
+}
