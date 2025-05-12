@@ -19,6 +19,8 @@ return [
             'charset' => 'utf8',
             // 数据库调试模式
             'debug' => true,
+            // 数据库连接端口
+            'hostport'    => '3306',
         ],
     ],
 ];
